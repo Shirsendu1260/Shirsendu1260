@@ -8,7 +8,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shirsendu1260&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsendu1260&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shirsendu1260&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

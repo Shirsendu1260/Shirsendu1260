@@ -19,8 +19,4 @@
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Shirsendu1260&theme=neon&hide_border=true)<br/>
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirsendu-mali-a61353230)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shirsendu.99)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

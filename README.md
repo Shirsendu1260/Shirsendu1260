@@ -16,7 +16,4 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Shirsendu1260&theme=neon&hide_border=true)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

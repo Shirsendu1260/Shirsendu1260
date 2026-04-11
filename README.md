@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Shirsendu 👋
+# Hi, I'm Shirsendu 👋
 
 **Backend Developer · Node.js · Laravel · TypeScript**
 
@@ -33,13 +33,6 @@ const shirsendu = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shirsendu1260&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=CDD9E5&dates=CDD9E5&sideNums=ffffff&currStreakNum=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Shirsendu1260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5&count_private=true" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsendu1260&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5&langs_count=8" width="50%" />
+<img src="https://streak-stats.demolab.com?user=Shirsendu1260&theme=tokyonight&hide_border=false&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=CDD9E5&dates=CDD9E5&sideNums=ffffff&currStreakNum=ffffff" width="49%" />
 
 </div>

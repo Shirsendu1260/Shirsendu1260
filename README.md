@@ -18,41 +18,12 @@ const shirsendu = {
   currently : "Leveling up with Node.js & TypeScript",
   backend   : ["Node.js", "Express.js", "Laravel", "JWT", "REST APIs"],
   databases : ["MySQL", "PostgreSQL", "MongoDB"],
-  orms : ["Drizzle", "Mongoose"],
+  orms      : ["Drizzle", "Mongoose"],
   frontend  : ["React", "jQuery", "HTML"],
   languages : ["TypeScript", "JavaScript", "PHP", "Python"],
   fun_fact  : "I debug with console.log and I'm proud of it 😄",
 };
 ```
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
 
 ---
 
@@ -61,13 +32,13 @@ const shirsendu = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shirsendu1260&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsendu1260&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shirsendu1260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5&count_private=true" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shirsendu1260&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsendu1260&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5&langs_count=8" width="40%" />
 
 </div>
 

@@ -26,13 +26,3 @@ const shirsendu = {
   fun_fact  : "I debug with console.log and I'm proud of it 😄",
 };
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shirsendu1260&theme=tokyonight&hide_border=false&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=CDD9E5&dates=CDD9E5&sideNums=ffffff&currStreakNum=ffffff" width="49%" />
-
-</div>

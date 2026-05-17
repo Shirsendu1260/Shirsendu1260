@@ -2,7 +2,7 @@
 
 # Hi, I'm Shirsendu 👋
 
-**Backend Developer · Node.js · Laravel · TypeScript**
+**Full-Stack Web Developer · Node.js · Laravel · TypeScript · React · SQL**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shirsendu1260&color=58A6FF&style=flat&label=Profile+Views)
 
@@ -14,14 +14,14 @@
 
 ```ts
 const shirsendu = {
-  role      : "Backend Developer",
+  role      : "Full-Stack Web Developer",
   location  : "Kolkata, West Bengal, India 🇮🇳",
   experience: "~1.5 years",
-  currently : "Leveling up with Node.js & TypeScript",
+  currently : "Leveling up with Node.js, TypeScript, & React",
   backend   : ["Node.js", "Express.js", "Laravel", "JWT", "REST APIs"],
   databases : ["MySQL", "PostgreSQL", "MongoDB"],
-  orms      : ["Drizzle", "Mongoose"],
-  frontend  : ["React", "jQuery", "HTML"],
+  orms/odms : ["Drizzle", "Mongoose"],
+  frontend  : ["React", "Zustand", "jQuery", "HTML"],
   languages : ["TypeScript", "JavaScript", "PHP", "Python"],
   fun_fact  : "I debug with console.log and I'm proud of it 😄",
 };

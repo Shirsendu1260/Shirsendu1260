@@ -14,15 +14,15 @@
 
 ```ts
 const shirsendu = {
-  role      : "Full-stack Web Developer",
-  location  : "Kolkata, West Bengal, India 🇮🇳",
-  experience: "~1.5 years",
-  currently : "Leveling up with Node.js, TypeScript, & React",
-  backend   : ["Node.js", "Express.js", "Laravel", "JWT", "REST APIs"],
-  databases : ["MySQL", "PostgreSQL", "MongoDB"],
-  orms/odms : ["Drizzle", "Mongoose"],
-  frontend  : ["React", "Zustand", "jQuery", "HTML"],
-  languages : ["TypeScript", "JavaScript", "PHP", "Python"],
-  fun_fact  : "I debug with console.log and I'm proud of it 😄",
+  role       : "Full-stack Web Developer",
+  location   : "Kolkata, West Bengal, India 🇮🇳",
+  experience : "~1.5 years",
+  currently  : "Leveling up with Node.js, TypeScript, & React",
+  backend    : ["Node.js", "Express.js", "Laravel", "JWT", "REST APIs"],
+  databases  : ["MySQL", "PostgreSQL", "MongoDB"],
+  orms/odms  : ["Drizzle", "Mongoose"],
+  frontend   : ["React", "Zustand", "jQuery", "HTML"],
+  languages  : ["TypeScript", "JavaScript", "PHP", "Python"],
+  fun_fact   : "I debug with console.log and I'm proud of it 😄",
 };
 ```

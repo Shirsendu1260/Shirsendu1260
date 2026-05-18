@@ -2,7 +2,7 @@
 
 # Hi, I'm Shirsendu 👋
 
-**Full-Stack Web Developer · Node.js · Laravel · TypeScript · React · SQL**
+**Full-stack Web Developer · Node.js · Laravel · TypeScript · SQL · React**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shirsendu1260&color=58A6FF&style=flat&label=Profile+Views)
 
@@ -14,7 +14,7 @@
 
 ```ts
 const shirsendu = {
-  role      : "Full-Stack Web Developer",
+  role      : "Full-stack Web Developer",
   location  : "Kolkata, West Bengal, India 🇮🇳",
   experience: "~1.5 years",
   currently : "Leveling up with Node.js, TypeScript, & React",

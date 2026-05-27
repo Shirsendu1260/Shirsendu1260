@@ -5,7 +5,7 @@
 **Full Stack Developer**  
 **Node.js · Express.js · TypeScript · React · Laravel**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shirsendu1260&color=39D353&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Shirsendu1260&color=238636&style=flat&label=Profile+Views)
 
 </div>
 
@@ -22,6 +22,6 @@ const shirsendu = {
   backend: ["Node.js", "Express.js", "Laravel", "JWT Authentication", "REST APIs"],
   databases: ["PostgreSQL", "MySQL", "MongoDB"],
   frontend: ["React", "React Router", "TanStack Query", "Zustand", "jQuery"],
-  tools: ["Drizzle ORM", "Mongoose", "Git"],
+  tools: ["Drizzle ORM", "Mongoose", "Git", "Postman"],
   languages: ["TypeScript", "JavaScript", "PHP"],
 };

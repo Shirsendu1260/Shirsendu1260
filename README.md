@@ -22,9 +22,9 @@ const shirsendu = {
     secondary: ["JavaScript", "PHP"],
   },
   backend: {
-    runtimes/frameworks: ["Node.js", "Express.js", "Laravel"],
+    runtimesOrFrameworks: ["Node.js", "Express.js", "Laravel"],
     databases: ["PostgreSQL", "MongoDB", "MySQL"],
-    orm/odm: ["Drizzle ORM", "Mongoose", "Eloquent"],
+    orm: ["Drizzle ORM", "Mongoose", "Eloquent"],
   },
   frontend: {
     frameworks: ["Next.js", "React"],

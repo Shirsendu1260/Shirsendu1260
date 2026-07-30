@@ -1,6 +1,6 @@
 <div align="center">
 
-## Shirsendu Mali
+# Shirsendu Mali
 
 **Full Stack Developer**
 

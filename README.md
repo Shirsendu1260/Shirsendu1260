@@ -2,9 +2,9 @@
 
 # Shirsendu Mali
 
-**Full Stack Developer**
+**Backend / Full Stack Developer**
 
-**Next.js · Node.js · TypeScript · Laravel · SQL**
+**Laravel · Node.js · TypeScript · SQL**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shirsendu1260&color=238636&style=flat&label=Profile+Views)
 
@@ -34,3 +34,9 @@ const shirsendu = {
   tools: ["Git", "Docker", "Postman", "Swagger UI"],
 };
 ```
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsendu1260&layout=compact&theme=tokyonight)

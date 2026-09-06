@@ -34,9 +34,3 @@ const shirsendu = {
   tools: ["Git", "Docker", "Postman", "Swagger UI"],
 };
 ```
-
----
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirsendu1260&layout=compact&theme=tokyonight)

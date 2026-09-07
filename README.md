@@ -1,36 +1,52 @@
-<div align="center">
+```php
+<?php
 
-# Shirsendu Mali
+class SoftwareDeveloper
+{
+    public string $name;
+    public string $role;
+    public string $location;
+    public array $languages;
+    public array $backend;
+    public array $databases;
+    public array $orm;
+    public array $frontend;
+    public array $tools;
 
-**Backend / Full Stack Developer**
+    public function __construct(
+        string $name,
+        string $role,
+        string $location,
+        array $languages,
+        array $backend,
+        array $databases,
+        array $orm,
+        array $frontend,
+        array $tools
+    ) {
+        $this->name = $name;
+        $this->role = $role;
+        $this->location = $location;
+        $this->languages = $languages;
+        $this->backend = $backend;
+        $this->databases = $databases;
+        $this->orm = $orm;
+        $this->frontend = $frontend;
+        $this->tools = $tools;
+    }
+}
 
-**Laravel · Node.js · TypeScript · SQL**
+$shirsendu = new SoftwareDeveloper(
+    'Shirsendu Mali',
+    'Backend / Full Stack Developer',
+    'Kolkata, West Bengal, India',
+    ['PHP', 'TypeScript', 'JavaScript', 'SQL'],
+    ['Laravel', 'Node.js', 'Express.js'],
+    ['PostgreSQL', 'MySQL', 'MongoDB'],
+    ['Eloquent', 'Drizzle ORM', 'Mongoose'],
+    ['HTML', 'React', 'Tailwind CSS'],
+    ['Git', 'Docker', 'Postman', 'Swagger UI']
+);
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shirsendu1260&color=238636&style=flat&label=Profile+Views)
-
-</div>
-
----
-
-## About
-
-```javascript
-const shirsendu = {
-  location: "Kolkata, West Bengal, India",
-  languages: {
-    primary: "TypeScript",
-    secondary: ["JavaScript", "PHP"],
-  },
-  backend: {
-    runtimesOrFrameworks: ["Node.js", "Express.js", "Laravel"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL"],
-    orm: ["Drizzle ORM", "Mongoose", "Eloquent"],
-  },
-  frontend: {
-    frameworks: ["Next.js", "React"],
-    styling: ["Tailwind CSS", "Bootstrap"],
-    state: "Zustand",
-  },
-  tools: ["Git", "Docker", "Postman", "Swagger UI"],
-};
+?>
 ```

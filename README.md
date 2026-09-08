@@ -3,37 +3,17 @@
 
 class SoftwareDeveloper
 {
-    public string $name;
-    public string $role;
-    public string $location;
-    public array $languages;
-    public array $backend;
-    public array $databases;
-    public array $orm;
-    public array $frontend;
-    public array $tools;
-
     public function __construct(
-        string $name,
-        string $role,
-        string $location,
-        array $languages,
-        array $backend,
-        array $databases,
-        array $orm,
-        array $frontend,
-        array $tools
-    ) {
-        $this->name = $name;
-        $this->role = $role;
-        $this->location = $location;
-        $this->languages = $languages;
-        $this->backend = $backend;
-        $this->databases = $databases;
-        $this->orm = $orm;
-        $this->frontend = $frontend;
-        $this->tools = $tools;
-    }
+        public string $name,
+        public string $role,
+        public string $location,
+        public array $languages,
+        public array $backend,
+        public array $databases,
+        public array $orm,
+        public array $frontend,
+        public array $tools
+    ) {}
 }
 
 $shirsendu = new SoftwareDeveloper(
